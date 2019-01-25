@@ -24,6 +24,7 @@ dependencies:
 - comonad == 5.0.4 
 - recursion-schemes == 5.1
 - distributive == 0.6
+- ncurses == 0.2.16
 
 library:
   source-dirs: src
